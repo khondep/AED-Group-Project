@@ -5,6 +5,9 @@ Group 12 Members
 Purvang Khonde - 002318532
 Neha Sankhe - 002089525
 Sneh Patil - 002331271
+
+
+
 Overview
 The Comprehensive Insurance Management Ecosystem is an innovative solution designed to address inefficiencies in the insurance industry by offering centralized data management, streamlined workflows, and advanced visualization tools. Our project integrates employee directory management, insurance policy handling, claims processing, and customer interaction features to enhance operational efficiency and customer satisfaction.
 
